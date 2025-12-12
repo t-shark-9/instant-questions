@@ -1,0 +1,532 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "original_text": "© International Baccalaureate Organization 2024 All rights  reserved. No part  of this  product may be reproduced in any form or by any  electronic or mechanical  means, including information storage and  retrieval systems,  without the prior written permission  from the IB.  Additionally, the license tied with this  product prohibits  use of  any selected files or extracts from  this produc t. Use by third  parties,  including but not limited to publishers, private teachers, tutoring or study services,  preparatory schools, vendors operating curriculum mapping services or teacher resource  digital platforms  and app  developers, whether  fee-covered or not, is prohibited and is  a  criminal offense. More information on how  to request written permission  in the  form of a license can be  obtained from https://ibo.org/become-an-ib-school/ib-publishing/licensing/applying-for-a- license/. © Organisation du Baccalauréat International 2024 Tous droits r éservés. Aucune partie de ce produit ne peut être reproduite sous quelque  forme ni par quelque moyen  que ce soit, électronique ou mécanique, y compris des  systèmes de stockage et de récupération d’informations, sans l’autorisation écrite  préalable de l’IB. De plus, la licence associée à ce produit interdit toute utilisation de tout  fichier ou extrait sélectionné dans ce produit. L’utilisation par des tiers, y compris, sans  toutefois s’y limiter, des éditeurs, des professeurs particuliers, des services de tutorat ou  d’aide aux  études, des  établissements  de préparation  à l’enseignement  supérieur, des  fournisseurs de services de planification des programmes d’études, des gestionnaires de  plateformes pédagogiques en  ligne, et des développeurs d’applications, moyennant  paiement ou non, est interdite et constitue une infraction pénale. Pour plus d’inform ations  sur la  procédure à suivre pour obtenir  une  autorisation écrite  sous la forme d’une licence, rendez-vous à l’adresse https://ibo.org/become-an-ib-school/ ib-publishing/licensing/applying-for-a-license/. © Organización del Bachillerato Internacional, 2024 Todos los  derechos  reservados.  No se podrá reproducir  ninguna parte de este producto  de ninguna  forma ni por ningún medio electrónico o mecánico, incluidos los sistemas de  almacenamiento y recuperación de información, sin la previa autorización por escrito del  IB. Además,  la licencia  vinculada a  este producto prohíbe el uso  de todo archivo o  fragmento seleccionado de este producto. El uso por parte de terceros —lo que incluye,  a título  enunciativo, editoriales, profesores particulares, servicios de apoyo  académico o  ayuda par a el estudio,  colegios  preparatorios,  desarrolladores  de aplicaciones  y  entidades que presten servicios  de planific ación curricular u ofrezcan  recursos para  docentes mediante plataformas digitales—, ya sea incluido en tasas o no, está prohibido  y constituye un delito. En este  enlace  enc ontrará  más información sobre cómo solicitar una autorizac ión por  escrito en  forma de licencia: https://ibo.org/become-an-ib-school/ib- publishing/licensing/ applying-for-a-license/.8824 – 9540 © International Baccalaureate Organization 20 24 20 pages4 November 2024 Zone A afternoon Zone B afternoon Zone C afternoon 1 hourChemistry Higher level Paper 1 Instructions to candidates  yDo not open this examination paper until instructed to do so.  yAnswer all the questions.  yFor each question, choose the answer you consider to be the best and indicate your choice on  the answer sheet provided.  yThe periodic table is provided for reference on page 2 of this examination paper.  yThe maximum mark for this examination paper is [40 marks] .– 2 – 8824 – 9540ENG The Periodic Table 18 2 He"
+    },
+    {
+      "id": 2,
+      "original_text": "4.00 10 Ne"
+    },
+    {
+      "id": 3,
+      "original_text": "20.18 18 Ar"
+    },
+    {
+      "id": 4,
+      "original_text": "39.95 36 Kr"
+    },
+    {
+      "id": 5,
+      "original_text": "83.90 54 Xe"
+    },
+    {
+      "id": 6,
+      "original_text": "131.29 86 Rn (222) 118 Uuo (294)17 9 F"
+    },
+    {
+      "id": 7,
+      "original_text": "19.00 17 Cl"
+    },
+    {
+      "id": 8,
+      "original_text": "35.45 35 Br"
+    },
+    {
+      "id": 9,
+      "original_text": "79.90 53 I"
+    },
+    {
+      "id": 10,
+      "original_text": "126.90 85 At (210) 117 Uus (294) 71 Lu"
+    },
+    {
+      "id": 11,
+      "original_text": "174.97 103 Lr (262)16 8 O"
+    },
+    {
+      "id": 12,
+      "original_text": "16.00 16 S"
+    },
+    {
+      "id": 13,
+      "original_text": "32.07 34 Se"
+    },
+    {
+      "id": 14,
+      "original_text": "78.96 52 Te"
+    },
+    {
+      "id": 15,
+      "original_text": "127.60 84 Po (209) 116 Uuh (293) 70 Yb"
+    },
+    {
+      "id": 16,
+      "original_text": "173.05 102 No (259)15 7 N"
+    },
+    {
+      "id": 17,
+      "original_text": "14.01 15 P"
+    },
+    {
+      "id": 18,
+      "original_text": "30.97 33 As"
+    },
+    {
+      "id": 19,
+      "original_text": "74.92 51 Sb"
+    },
+    {
+      "id": 20,
+      "original_text": "121.76 83 Bi"
+    },
+    {
+      "id": 21,
+      "original_text": "208.98 115 Uup (288) 69 Tm"
+    },
+    {
+      "id": 22,
+      "original_text": "168.93 101 Md (258)14 6 C"
+    },
+    {
+      "id": 23,
+      "original_text": "12.01 14 Si"
+    },
+    {
+      "id": 24,
+      "original_text": "28.09 32 Ge"
+    },
+    {
+      "id": 25,
+      "original_text": "72.63 50 Sn"
+    },
+    {
+      "id": 26,
+      "original_text": "118.71 82 Pb"
+    },
+    {
+      "id": 27,
+      "original_text": "207.2 114 Uug (289) 68 Er"
+    },
+    {
+      "id": 28,
+      "original_text": "167.26 100 Fm (257)13 5 B"
+    },
+    {
+      "id": 29,
+      "original_text": "10.81 13 Al"
+    },
+    {
+      "id": 30,
+      "original_text": "26.98 31 Ga"
+    },
+    {
+      "id": 31,
+      "original_text": "69.72 49 In"
+    },
+    {
+      "id": 32,
+      "original_text": "114.82 81 Tl"
+    },
+    {
+      "id": 33,
+      "original_text": "204.38 113 Unt (286) 67 Ho"
+    },
+    {
+      "id": 34,
+      "original_text": "164.93 99 Es (252)12 30 Zn"
+    },
+    {
+      "id": 35,
+      "original_text": "65.38 48 Cd"
+    },
+    {
+      "id": 36,
+      "original_text": "112.41 80 Hg"
+    },
+    {
+      "id": 37,
+      "original_text": "200.59 112 Cn (285) 66 Dy"
+    },
+    {
+      "id": 38,
+      "original_text": "162.50 98 Cf (251)11 29 Cu"
+    },
+    {
+      "id": 39,
+      "original_text": "63.55 47 Ag"
+    },
+    {
+      "id": 40,
+      "original_text": "107.87 79 Au"
+    },
+    {
+      "id": 41,
+      "original_text": "196.97 111 Rg (281) 65 Tb"
+    },
+    {
+      "id": 42,
+      "original_text": "158.93 97 Bk (247)10 28 Ni"
+    },
+    {
+      "id": 43,
+      "original_text": "58.69 46 Pd"
+    },
+    {
+      "id": 44,
+      "original_text": "106.42 78 Pt"
+    },
+    {
+      "id": 45,
+      "original_text": "195.08 110 Ds (281) 64 Gd"
+    },
+    {
+      "id": 46,
+      "original_text": "157.25 96 Cm (247)9 Atomic number Element Relative atomic mass 27 Co"
+    },
+    {
+      "id": 47,
+      "original_text": "58.93 45 Rh"
+    },
+    {
+      "id": 48,
+      "original_text": "102.91 77 Ir"
+    },
+    {
+      "id": 49,
+      "original_text": "192.22 109 Mt (278) 63 Eu"
+    },
+    {
+      "id": 50,
+      "original_text": "151.96 95 Am (243)8 26 Fe"
+    },
+    {
+      "id": 51,
+      "original_text": "55.85 44 Ru"
+    },
+    {
+      "id": 52,
+      "original_text": "101.07 76 Os"
+    },
+    {
+      "id": 53,
+      "original_text": "190.23 108 Hs (269) 62 Sm"
+    },
+    {
+      "id": 54,
+      "original_text": "150.36 94 Pu (244)7 25 Mn"
+    },
+    {
+      "id": 55,
+      "original_text": "54.94 43 Tc (98) 75 Re"
+    },
+    {
+      "id": 56,
+      "original_text": "186.21 107 Bh (270) 61 Pm (145) 93 Np (237)6 24 Cr"
+    },
+    {
+      "id": 57,
+      "original_text": "52.00 42 Mo"
+    },
+    {
+      "id": 58,
+      "original_text": "95.96 74 W"
+    },
+    {
+      "id": 59,
+      "original_text": "183.84 106 Sg (269) 60 Nd"
+    },
+    {
+      "id": 60,
+      "original_text": "144.24 92 U"
+    },
+    {
+      "id": 61,
+      "original_text": "238.035 23 V"
+    },
+    {
+      "id": 62,
+      "original_text": "50.94 41 Nb"
+    },
+    {
+      "id": 63,
+      "original_text": "92.91 73 Ta"
+    },
+    {
+      "id": 64,
+      "original_text": "180.95 105 Db (268) 59 Pr"
+    },
+    {
+      "id": 65,
+      "original_text": "140.91 91 Pa"
+    },
+    {
+      "id": 66,
+      "original_text": "231.044 22 Ti"
+    },
+    {
+      "id": 67,
+      "original_text": "47.87 40 Zr"
+    },
+    {
+      "id": 68,
+      "original_text": "91.22 72 Hf"
+    },
+    {
+      "id": 69,
+      "original_text": "178.49 104 Rf (267) 58 Ce"
+    },
+    {
+      "id": 70,
+      "original_text": "140.12 90 Th"
+    },
+    {
+      "id": 71,
+      "original_text": "232.043 21 Sc"
+    },
+    {
+      "id": 72,
+      "original_text": "44.96 39 Y"
+    },
+    {
+      "id": 73,
+      "original_text": "88.91 57 † La"
+    },
+    {
+      "id": 74,
+      "original_text": "138.91 89 ‡ Ac (227) † ‡2 4 Be"
+    },
+    {
+      "id": 75,
+      "original_text": "9.01 12 Mg"
+    },
+    {
+      "id": 76,
+      "original_text": "24.31 20 Ca"
+    },
+    {
+      "id": 77,
+      "original_text": "40.08 38 Sr"
+    },
+    {
+      "id": 78,
+      "original_text": "87.62 56 Ba"
+    },
+    {
+      "id": 79,
+      "original_text": "137.33 88 Ra (226)1 1 H"
+    },
+    {
+      "id": 80,
+      "original_text": "1.01 3 Li"
+    },
+    {
+      "id": 81,
+      "original_text": "6.94 11 Na"
+    },
+    {
+      "id": 82,
+      "original_text": "22.99 19 K"
+    },
+    {
+      "id": 83,
+      "original_text": "39.10 37 Rb"
+    },
+    {
+      "id": 84,
+      "original_text": "85.47 55 Cs"
+    },
+    {
+      "id": 85,
+      "original_text": "132.91 87 Fr (223)1 2 3 4 5 6 7– 3 – 8824 – 9540 Turn over"
+    },
+    {
+      "id": 86,
+      "original_text": "1. How many moles of phosphate ions, PO43-, are there in 103.39 g of Ca3(PO4)2?  Mr  = 310.18 A. 0.11 B. 0.33 C. 0.67 D. 2.00"
+    },
+    {
+      "id": 87,
+      "original_text": "2. What is the sum of the coefficients for the balanced equation of the combustion of iron( II) sulphide  using the smallest whole numbers? _FeS (s) + _O2 (g) → _Fe2O3 (s) + _SO2 (g) A. 6 B. 7 C. 14 D. 17"
+    },
+    {
+      "id": 88,
+      "original_text": "3. What is the yield of sodium chloride, in grams, when 4.60 g of sodium reacts with 1.14 dm3 of  chlorine gas at STP?   Molar volume = 22.7 dm3 mol-1 2Na (s) + Cl2 (g) → 2NaCl (s) A. 1.17 B. 2.92 C. 5.84 D. 11.7"
+    },
+    {
+      "id": 89,
+      "original_text": "4. What is the pressure, in Pa, inside a 3.0 dm3 cylinder containing 64 g of O2 at 25.0 ºC?  R = 8.31 J K-1 mol-1; PV = nRT A. 2"
+    },
+    {
+      "id": 90,
+      "original_text": "3.0/g117 /g117 25 8.31 B. 22 98 831."
+    },
+    {
+      "id": 91,
+      "original_text": "10330. C. 8.312 30/g117 /g117 .298  D. 8.3142 98 30 103.– 4 – 8824 – 9540"
+    },
+    {
+      "id": 92,
+      "original_text": "5. What is the Ar of the element as determined from its mass spectrum below? 1011 Mass/Charge% Abundance80.1"
+    },
+    {
+      "id": 93,
+      "original_text": "19.9 A. 10.0 B. 10.2 C. 10.5 D. 10.8"
+    },
+    {
+      "id": 94,
+      "original_text": "6. What is correct for the wavelength and energy of the radiation of the ultraviolet and visible regions  of the electromagnetic spectrum? Ultraviolet region Visible region A. Lower wavelength and higher energy Higher wavelength and lower energy B. Lower wavelength and lower energy Higher wavelength and higher energy C. Higher wavelength and lower energy Lower wavelength and higher energy D. Higher wavelength and higher energy Lower wavelength and lower energy– 5 – 8824 – 9540 Turn over"
+    },
+    {
+      "id": 95,
+      "original_text": "7. The graph represents the first ten ionization energies (IE) of an element. 0 1 2 3 4 5 6 7 8 9 10 11 Number of electrons removedIonization Energy (KJ mol1) What is the element? A. Cl B. Ne C. O D. S"
+    },
+    {
+      "id": 96,
+      "original_text": "8. [Co(H2O)6]3+ is blue while [Co(CN)6]3- is pale yellow. Which statement correctly explains the  difference in colour? A. The ligand in [Co(CN)6]3- is weaker and absorbs light of higher frequency. B. The oxidation state of cobalt is different in each complex. C. The different colours are due to the different charges on the complex. D. The ligand in [Co(CN)6]3- causes larger 3 d orbital splitting and absorbs light of  higher frequency.– 6 – 8824 – 9540"
+    },
+    {
+      "id": 97,
+      "original_text": "9. Which of these period 3 oxides forms a solution with pH <7 when added to water? A. Al2O3 B. MgO C. Na2O D. P4O6"
+    },
+    {
+      "id": 98,
+      "original_text": "10. Which configuration is that of a transition metal atom in its ground state? A. [Ne]3s23p6 B. [Ar]3d9 C. 1s22s22p63s23p64s23d104p2 D. [Ar]4s13d5"
+    },
+    {
+      "id": 99,
+      "original_text": "11. Which types of intermolecular force exist between CH4, CH3OH and CH3Cl molecules? CH4 CH3OH CH3Cll A.London dispersion onlyLondon dispersion,  H-bonding, dipole-dipoleLondon dispersion,  dipole-dipole B. London dispersion,  H-bondingLondon dispersion,  H-bonding, dipole-dipoleLondon dispersion,  H-bonding, dipole-dipole C.London dispersion onlyLondon dispersion,  dipole-dipoleLondon dispersion only D. London dispersion,  H-bondingLondon dispersion onlyLondon dispersion,  dipole-dipole– 7 – 8824 – 9540 Turn over"
+    },
+    {
+      "id": 100,
+      "original_text": "12. What is the molecular geometry and hybridization of the numbered atoms in the molecule  shown below? \u0007 \u0001\u0003\u0002\u0001\u0004\u0002 \u0006\u0007\u0001\u0005\u0002 N(1) C(2) C(3) A. sp2 / bent sp2 / trigonal planar sp / linear B. sp2 / trigonal planar sp2 / bent sp2 / bent C. sp3 / tetrahedral sp2 / trigonal planar sp / bent D. sp / bent sp3 / tetrahedral sp3 / linear"
+    },
+    {
+      "id": 101,
+      "original_text": "13. How many sigma (σ) and pi ( π) bonds are present in the molecule below? (NC)2CC(CN)2 σ π A. 7 5 B. 9 5 C. 9 9 D. 13 5– 8 – 8824 – 9540"
+    },
+    {
+      "id": 102,
+      "original_text": "14. Which statements are correct for alloys? I. They are homogeneous mixtures of metals with other metals or non-metals. II. The different sizes of atoms in alloys prevent layers of metallic cations sliding over  each other easily. III. Adding carbon to iron produces an alloy that is stronger than pure iron. A. I and II only B. I and III only C. II and III only D. I, II and III"
+    },
+    {
+      "id": 103,
+      "original_text": "15. What are the signs of ∆H À and ∆S À for this reaction that is non-spontaneous at high temperatures  and spontaneous at low temperatures?   ∆G À = ∆H À - T∆S À SO3 (l) + CaO (s) → CaSO4 (s) ∆∆H  ÀÀ ∆∆S  ÀÀ A. + + B. - - C. - + D. + -"
+    },
+    {
+      "id": 104,
+      "original_text": "16. Consider the following equations: H2 (g) + F2 (g) → 2HF (g) ∆H À = - x kJ C (s) + 2F2 (g) → CF4 (g) ∆H À = - y kJ 2C (s) + 2H2 (g) → C2H4 (g) ∆H À = + z kJ What is the ∆H À of the reaction?  C2H4 (g) + 6F2 (g) → 2CF4 (g) + 4HF (g) A.  - x - y - z B.  - x - y + z C.  -2x + 2y - z  D.  -2x - 2y - z– 9 – 8824 – 9540 Turn over"
+    },
+    {
+      "id": 105,
+      "original_text": "17. Which of the diagrams represents the Maxwell–Boltzmann distribution of kinetic energy of   molecules of the same sample of a gas at two temperatures, T1 and T2, when T1 >T2? A. T1T2 Kinetic energy, KeFraction of moleculesB. T1T2 Kinetic energy, KeFraction of molecules C. T1T2 Kinetic energy, KeFraction of moleculesD. T1 T2 Kinetic energy, KeFraction of molecules"
+    },
+    {
+      "id": 106,
+      "original_text": "18. What is the enthalpy change, in kJ mol-1, when 107 g of solid ammonium chloride, NH4Cl, are  added to water to form 50.0 cm3 of solution, producing a maximum decrease of 28 ºC?  Mr NH4Cl = 53.5  Specific heat capacity of water = 4.18 J g-1 K-1 A.  ∆H = /g16/g117 /g117/g14/g11/g12 /g1175004 18 28 273"
+    },
+    {
+      "id": 107,
+      "original_text": "21000.. B.  ∆H = 5004 1828"
+    },
+    {
+      "id": 108,
+      "original_text": "21000.. C.  ∆H = 5004 18 28 273"
+    },
+    {
+      "id": 109,
+      "original_text": "21000../g117/g117 /g14/g11/g12 /g117 D.  ∆H = 5004 18 28"
+    },
+    {
+      "id": 110,
+      "original_text": "21000..×× ×– 10 – 8824 – 9540"
+    },
+    {
+      "id": 111,
+      "original_text": "19. The non-catalysed decomposition of H2O2 was monitored giving the dotted line in the  following graph. Which curve represents the catalysed reaction if performed at the same temperature and using the  same concentration of reactants? A B C D Time / sVolume O2 / cm3– 11 – 8824 – 9540 Turn over"
+    },
+    {
+      "id": 112,
+      "original_text": "20. The rate constants of a reaction at different temperatures were plotted giving the following graph. 1/Tln k What does the slope of the line represent? ln ln kE RTAa A. -Ea/R B. -Ea C. ln A D. -Ea/RT"
+    },
+    {
+      "id": 113,
+      "original_text": "21. The reaction between carbon monoxide and nitrogen dioxide follows the two-step mechanism: 2NO2 (g) → NO3(g) + NO(g) Slow step  CO(g) + NO3(g) → CO2(g) + NO2(g) Fast step What is the rate expression of this reaction? A. Rate = k[NO2]2 B. Rate  = k[NO2]2[CO][NO3] C. Rate = k[CO][NO3] D. Rate = k[NO2]2[CO]– 12 – 8824 – 9540"
+    },
+    {
+      "id": 114,
+      "original_text": "22. Carbon dioxide dissolves in water as shown in the equation below. What will happen if the  temperature of the aqueous solution is increased? CO2 (g) + 2H2O (l)  H3O+ (aq) + HCO3- (aq) ∆H À= -19.3 kJ mol-1 A. The equilibrium shifts to the right and pH decreases. B. The equilibrium shifts to the right and pH increases. C. The equilibrium shifts to the left and pH increases. D. The equilibrium shifts to the left and pH decreases."
+    },
+    {
+      "id": 115,
+      "original_text": "23. Which of the following statements is correct for the position of equilibrium of a reaction? ∆GÀ = -RTlnK I. It will always shift to the right when temperature increases. II. If ∆GÀ < 0, then K > 1 and products are favoured over reactants.    III. If ∆GÀ= 0, then K =1 and [reactants] and [products] are approximately equal. A. I and II only B. I and III only C. II and III only D. I, II and III"
+    },
+    {
+      "id": 116,
+      "original_text": "24. The pH of an aqueous solution Z is 5 and the pH of an aqueous solution X is 10. What is the ratio  of their H3O+ concentrations? A. [H3O+] is 2 times lower in X than in Z. B. [H3O+] is 5 times lower in X than in Z. C. [H3O+] is 1 ×102 times lower in X than in Z. D. [H3O+] is 1 ×105 times lower in X than in Z.– 13 – 8824 – 9540 Turn over"
+    },
+    {
+      "id": 117,
+      "original_text": "25. Using the data provided in the table, which of the conjugate bases is the strongest? Acid Ka HClO 2.9 × 10-8  C6H5COOH 6.3 × 10-5 H3PO4 7.3 × 10-3 H2SO3 1.3 × 10-2 A. ClO- B. C6H5COO- C. H2PO4- D. HSO3-"
+    },
+    {
+      "id": 118,
+      "original_text": "26. Consider the phosphate buffer system, Na2HPO4 /NaH2PO4. What is correct when a small amount of a strong base is added to the buffer? A. OH- react with Na+ to form NaOH. B. [H2PO4- ] increases. C. [HPO42- ] increases. D. OH- react with H2PO4- to form PO43-.– 14 – 8824 – 9540"
+    },
+    {
+      "id": 119,
+      "original_text": "27. A 25 cm3 sample of a weak base was titrated with hydrochloric acid, HC l. 002468101214 10 20 30 40 50pH Volume of HCl added/cm3 What is the pKb of the base? A. 2 B. 5 C. 9 D. 11"
+    },
+    {
+      "id": 120,
+      "original_text": "28. In which reaction does H2 act as an oxidizing agent? A. N2 (g) + 3H2 (g) → 2NH3 (g) B. 2Na (s) + H2 (g) → 2NaH (s) C. Cl2 (g) + H2 (g) → 2HCl (g) D. H2CCH2 (g) + H2 (g) → H3CCH3 (g)– 15 – 8824 – 9540 Turn over"
+    },
+    {
+      "id": 121,
+      "original_text": "29. A voltaic cell is constructed from half-cells using metals X and Z as electrodes. What will occur  when this cell produces electricity? X2+ (aq) + 2e-  X (s) E À= +0.25 v  Z2+ (aq) + 2e-  Z (s) E À= -0.60 v z x X2+ (aq)Z2+ (aq)Salt bridgeVoltmeter A. Positive ions flow through the salt bridge to Z half-cell. B. Electrons flow from X half-cell to Z half-cell. C. The concentration of X2+ increases. D. Mass of electrode Z decreases."
+    },
+    {
+      "id": 122,
+      "original_text": "30. Which statement is correct for a reaction in a voltaic cell, for which both ∆HÀ and ∆SÀ are positive? ∆GÀ = -nFE À A. EÀ cell will increase with an increase in temperature. B. EÀ cell will decrease with an increase in temperature. C. EÀ cell will not change when the temperature increases. D. ∆GÀ > 0 for all temperatures.– 16 – 8824 – 9540"
+    },
+    {
+      "id": 123,
+      "original_text": "31. Which statement is correct for the value of E À of the standard hydrogen electrode (SHE)? A. It was determined experimentally. B. It depends on the temperature. C. It was arbitrarily set. D. It depends on the E À of the second electrode."
+    },
+    {
+      "id": 124,
+      "original_text": "32. Which of these functional groups are present in aspartame? \u0006\u0003\u0004\u0002 \u0006\u0005 \u0004\u0006 \u0005\u0004\u0001\u0006 \u0006\u0004 A. Carboxyl, secondary amino and ether B. Carboxyl, secondary amino and ester C. Ether, primary amino and secondary amino D. Ester, primary amino and carboxyl– 17 – 8824     – 9540 Turn over33. What is the IUPAC name of this compound? A. 2,3-dimethylpentanal B. 2,3-methylpentanal C. 2-methyl-3-ethylbutanal D. 3-ethyl-2-methylbutanal"
+    },
+    {
+      "id": 125,
+      "original_text": "34. Which of the following compounds can react with acidified potassium dichromate to give an acid? A. CH3CH(OH)CH3 B. CH3COCH3 C. CH3CH2CH(CH2OH)CH2CH3 D. CH3C(CH3)(OH)CH3– 18 – 8824 – 9540"
+    },
+    {
+      "id": 126,
+      "original_text": "35. How many optical isomers exist for ascorbic acid? \u0004\u0004\u0003 \u0004\u0003 \u0002\u0003\u0004 \u0002\u0003\u0001 \u0003\u0004\u0003\u0004 A. 2 B. 4 C. 5 D. 6"
+    },
+    {
+      "id": 127,
+      "original_text": "36. 2-bromo-2-methylbutane, CH3CH2CBr(CH3)2, reacts with a warm solution of NaOH to form  an alcohol. \b\t\u0006\b\t\u0005\b\b\t\u0006 \b\t\u0006\u0007\u000e \b\t\u0006\b\t\u0005\b\b\t\u0006 \b\t\u0006\u000b\t \u0004\u0001 \f\u0007\u000e \f\u000b\t\u0001\u0002\f\r\u0003 What is the reaction mechanism and rate expression? Reaction mechanism Rate expression A. Sn2 rate = k[CH3CH2CBr(CH3)2] [OH- ] B. Sn1 rate = k[CH3CH2CBr(CH3)2] C. Sn1 rate = k[CH3CH2CBr(CH3)2] [OH- ] D. Sn2 rate = k[CH3CH2CBr(CH3)2]– 19 – 8824 – 9540 Turn over"
+    },
+    {
+      "id": 128,
+      "original_text": "37. Which of the following compounds would give an optically active compound on reacting  with LiAlH4?  A. Propanal B. Butanal C. Butanone D. Propanone"
+    },
+    {
+      "id": 129,
+      "original_text": "38. Which statements are correct about the molecular ion, M+, in a mass spectrum? I. The M+ is not always the peak with highest intensity in the mass spectrum. II. The M+ is always the most stable fragment formed during electron bombardment. III. The m/z ratio of the M+ ion peak gives the relative molecular mass of the molecule. A. I and II only B. I and III only C. II and III only D. I, II and III– 20 – 8824 – 9540"
+    },
+    {
+      "id": 130,
+      "original_text": "39. Which compound gives this 1HNMR spectrum? ppm9 8 7 6 5 4 3 2 1 0 [Source: SDBS, National Institute of Advanced Industrial Science and Technology.] A. \u0003\u0001\u0002\u0004 \u0003\u0003\u0002\u0003\u0001B. \u0003\u0001\u0002\u0003\u0003 \u0003\u0004\u0002\u0003\u0001 \u0003 C.\u0003\u0001\u0002 \u0003\u0003\u0004 \u0003\u0003\u0002\u0003\u0001D.\u0003\u0001\u0002 \u0002\u0003\u0001 \u0004\u0003 \u0002\u0003\u0001"
+    },
+    {
+      "id": 131,
+      "original_text": "40. A student performs an investigation to determine the content of ethanoic acid in vinegar samples  using a non-standardized sodium hydroxide solution. Which type of error will occur and how will  this affect the quality of the data obtained? A. Systematic error and lower accuracy B. Systematic error and lower precision C. Random error and lower precision D. Random error and lower accuracyDisclaimer: Content used in IB assessments is taken from authentic, third-party sources. The views expressed within them belong to their  individual authors and/or publishers and do not necessarily reflect the views of the IB. References:"
+    },
+    {
+      "id": 132,
+      "original_text": "39. SDBS, National Institute of Advanced Industrial Science and Technology. All other texts, graphics and illustrations © International Baccalaureate Organization 2024"
+    }
+  ]
+}
